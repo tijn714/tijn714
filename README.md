@@ -1,9 +1,7 @@
 # Welcome!
 <hr>
 
-18 year old who likes writing code in HTML, CSS, JavaScript, PHP, MySQL, C, C++, x86 Assembly and C#
+19 year old who likes writing code in HTML, CSS, JavaScript, PHP, MySQL, C, C++, x86 Assembly and C#
 
-Interested in OS development using Assembly and C for 32 bit Intel machines.
-
-
-<a href="https://tijnrodrigo.nl/">My website</a>
+- Web developer 
+- Interested in Cryptography and OS development for aarch64, x86 and x64
